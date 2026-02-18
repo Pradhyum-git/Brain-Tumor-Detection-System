@@ -104,7 +104,7 @@ NumPy, Pandas
 PIL (Image Processing)
 
 ## 🖥️ Application Pages
-###🔹 Prediction Page
+### 🔹 Prediction Page
 
 Upload MRI image
 
@@ -112,7 +112,7 @@ View tumor type and confidence score
 
 View tumor-specific educational information and precautions
 
-###🔹 Confidence Comparison Page
+### 🔹 Confidence Comparison Page
 
 Upload previous and current MRI scans
 
@@ -122,8 +122,15 @@ Observe prediction stability trends
 
 Includes safety warnings and disclaimers
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This application is intended for educational and research purposes only.
 It does not provide medical diagnosis, treatment recommendations, or clinical decisions.
 Final medical decisions should always be made by qualified healthcare professionals.
+## 📈 Future Enhancements
+
+Tumor segmentation for size-based progression analysis
+
+Patient history–aware longitudinal tracking
+
+Deployment as a web-based clinical support prototype
