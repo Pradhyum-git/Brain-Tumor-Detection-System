@@ -134,3 +134,22 @@ Tumor segmentation for size-based progression analysis
 Patient history–aware longitudinal tracking
 
 Deployment as a web-based clinical support prototype
+
+## 📥 Model Download
+
+Download the trained model from the link below and place it in the project directory:
+
+### 🔗 Model Link
+https://drive.google.com/file/d/1D07d7WBSug3QOfIi0oMUuEBRxoqNr5Yp/view?usp=sharing
+
+## 📂 Dataset Download
+
+The dataset used in this project consists of brain MRI images categorized into different tumor classes.
+It is publicly available and widely used for research and educational purposes in medical image analysis.
+
+### 🔗 Dataset Link
+
+You can download the dataset from the following link:
+
+#### 👉 Brain Tumor MRI Dataset
+https://drive.google.com/drive/folders/1ZrPNu0eGIOPsCSkuhxuCLRtSCNV2xQAu?usp=sharing
